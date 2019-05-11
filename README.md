@@ -1,0 +1,2 @@
+# gitTest
+Sample of git
